@@ -1,4 +1,6 @@
-# GUI Word Counter class with Tkinter
+#
+# An app that counts the instances of words in a given directory
+#
 import Tkinter, tkFileDialog, Tkconstants, os, ttk, tkMessageBox, tkFont, re
 
 from Tkinter import *
